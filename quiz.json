@@ -1,19 +1,64 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of banking and finance with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is ROI?",
+      "answers": ["Return", "Ratio", "Income"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is a bond?",
+      "answers": ["Debt", "Stock", "Fund"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is APR?",
+      "answers": ["Rate", "Loan", "Debt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is GDP?",
+      "answers": ["Output", "Tax", "Income"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a loan?",
+      "answers": ["Credit", "Bond", "Equity"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a stock?",
+      "answers": ["Equity", "Debt", "Bond"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Forex?",
+      "answers": ["Market", "Tax", "Loan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is EBIT?",
+      "answers": ["Earnings", "Debt", "Bond"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an ETF?",
+      "answers": ["Fund", "Stock", "Loan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is liquidity?",
+      "answers": ["Cash", "Stock", "Debt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is inflation?",
+      "answers": ["Prices", "Wages", "Debt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a budget?",
+      "answers": ["Plan", "Debt", "Tax"],
       "correctAnswerIndex": 0
     }
   ]
